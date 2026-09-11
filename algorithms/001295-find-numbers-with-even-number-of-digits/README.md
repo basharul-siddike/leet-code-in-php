@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy
 
-**Topics:** `Array`, `Math`
+**Topics:** `Mid Level`, `Array`, `Math`, `Weekly Contest 168`
 
 Given an array `nums` of integers, return _how many of them contain an **even number** of digits_.
 
@@ -35,6 +35,12 @@ Given an array `nums` of integers, return _how many of them contain an **even nu
 **Hint:**
 1. How to compute the number of digits of a number ?
 2. Divide the number by 10 again and again to get the number of digits.
+
+
+**Similar Questions:**
+1. [2094. Finding 3-Digit Even Numbers](https://github.com/mah-shamim/leet-code-in-php/tree/main/algorithms/002094-finding-3-digit-even-numbers)
+2. [2595. Number of Even and Odd Bits](https://github.com/mah-shamim/leet-code-in-php/tree/main/algorithms/002595-number-of-even-and-odd-bits)
+3. [3232. Find if Digit Game Can Be Won](https://github.com/mah-shamim/leet-code-in-php/tree/main/algorithms/003232-find-if-digit-game-can-be-won)
 
 
 
