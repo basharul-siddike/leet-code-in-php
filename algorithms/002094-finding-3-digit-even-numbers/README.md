@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy
 
-**Topics:** `Array`, `Hash Table`, `Sorting`, `Enumeration`
+**Topics:** `Mid Level`, `Array`, `Hash Table`, `Recursion`, `Sorting`, `Enumeration`, `Weekly Contest 270`
 
 You are given an integer array `digits`, where each element is a digit. The array may contain duplicates.
 
@@ -47,6 +47,11 @@ Return _a **sorted** array of the unique integers_.
 
 **Hint:**
 1. The range of possible answers includes all even numbers between 100 and 999 inclusive. Could you check each possible answer to see if it could be formed from the digits in the array?
+
+
+**Similar Questions:**
+1. [1295. Find Numbers with Even Number of Digits](https://github.com/mah-shamim/leet-code-in-php/tree/main/algorithms/001295-find-numbers-with-even-number-of-digits)
+2. [3483. Unique 3-Digit Even Numbers](https://github.com/mah-shamim/leet-code-in-php/tree/main/algorithms/003483-unique-3-digit-even-numbers)
 
 
 
